@@ -1,11 +1,17 @@
-# Oi, eu sou o Igor
+## Oi, eu sou o Igor
 
-Me chamo Igor Garbin Manzan Mazo, moro em Goiânia e curso Inteligência Artificial na UFG.
+Sou de Goiânia e estudo Inteligência Artificial na UFG.
 
-Sou curioso e gosto de entender o porquê das coisas. Quando algo me interessa, gosto de ir além da resposta pronta, testar e entender como funciona. Tenho vontade de criar coisas novas e encontrar soluções para os problemas que aparecem no caminho.
+Gosto de aprender, testar ideias e entender como as coisas funcionam. Se alguma coisa desperta minha curiosidade, quero saber o porquê.
 
-Hoje divido meu tempo entre a faculdade e o trabalho, tentando colocar em prática o que aprendo. Também tenho interesse em empreender no futuro e construir algo meu. Ainda estou descobrindo quais ideias quero levar adiante.
+Divido meu tempo entre a faculdade e o trabalho. Gosto de encontrar problemas que posso resolver e colocar em prática o que estou aprendendo.
 
-Por aqui compartilho um pouco dessa trajetória: trabalhos da faculdade, projetos em grupo e ideias que vou experimentando.
+Aqui você encontra trabalhos da faculdade, projetos em grupo e algumas experiências minhas. Cada repositório guarda um pouco do que venho aprendendo.
 
-[E-mail](mailto:igormazog@gmail.com) · [Meus links](https://l1nk.dev/IgorMazo)
+**Um pouco mais sobre mim:**
+
+- Gosto de entender a ideia por trás das fórmulas e dos códigos.
+- Tenho interesse em inovação e vontade de empreender.
+- Quero construir algo meu, mas ainda estou explorando as possibilidades.
+
+Se quiser conversar, pode me chamar por [e-mail](mailto:igormazog@gmail.com). Meus outros links estão [aqui](https://l1nk.dev/IgorMazo).
