@@ -4,7 +4,7 @@ Sou de Goiânia e estudo Inteligência Artificial na UFG.
 
 Gosto de aprender, testar ideias e entender como as coisas funcionam. Se alguma coisa desperta minha curiosidade, quero saber o porquê.
 
-Divido meu tempo entre a faculdade e o trabalho. Atualmente, trabalho no CEIA e na Salte (Britago).
+Divido meu tempo entre a faculdade e o trabalho. Atualmente, trabalho no CEIA, Salte e Britago.
 
 Gosto de encontrar problemas que posso resolver e colocar em prática o que estou aprendendo.
 
